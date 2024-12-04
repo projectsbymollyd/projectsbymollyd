@@ -6,19 +6,9 @@
 
 📚 I hold a Bachelor’s Bachelor of Science in Tech and a Data Science Certification, where I gained hands-on experience in data visualization, Python programming, and analytics. My projects showcase my ability to turn data into actionable insights, with a creative edge from my design background. Currently, I’m growing my SQL skills to enhance my data-handling expertise.
 
-🚀 Expertise:
+🚀 Expertise: Tableau, Python, Excel, Digital Marketing Analytics, Design and Marketing Strategy
 
-- Tableau
-- Python
-- Excel
-- Digital Marketing Analytics
-
-🎯 Professional Interests:
-
-- Sports Analytics
-- Luxury Retail Analytics
-- Tech and Marketing Innovation
-- Startups and Entrepreneurship
+🎯 Professional Interests: Sports Analytics, Luxury Retail Analytics, Tech and Marketing Innovation, Startups and Entrepreneurship
 
 ✨ What Sets Me Apart:
 I bring a diverse skill set that bridges creativity and data-driven problem-solving. My background in design and digital marketing enhances my ability to craft compelling narratives from data, making insights not just valuable but also visually impactful.
